@@ -1,6 +1,6 @@
-# 📺 Netflix Top 10 Analysis
+# 📺 Netflix Top Shows Analysis
 
-This project focuses on analyzing the top 10 most-watched shows and movies on Netflix using Tableau. The visualizations provide insights into viewing trends, popular genres, and performance metrics.
+This project focuses on analyzing the most-watched shows and movies on Netflix using Tableau. The visualizations provide insights into viewing trends, popular genres, and performance metrics.
 
 ## 📚 Table of Contents
 1. 📥 Data Source
@@ -59,3 +59,7 @@ To run this project, follow these steps:
 1. Ensure you have Tableau Desktop installed.
 2. Open the `Netflix Top 10.twb` file in Tableau Desktop.
 3. Explore the dashboards and visualizations to gain insights into Netflix's top 10 content.
+
+## 📸 Screenshots
+Screenshot of the dashboard and visualizations to illustrate key insights and features.
+![Netflix Top Shows](https://github.com/user-attachments/assets/2ec51cf3-13ef-4a08-9fbf-3b65211b17b2)
